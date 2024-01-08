@@ -31,9 +31,9 @@ if step1 == "left":
     if step3 == 'red':
       print("You were burned by fire.  GAME OVER\n")
     elif step3 == 'blue':
-      print("You were eaten by beasts. GAME OVER")
+      print("You were eaten by beasts. GAME OVER\n")
     elif step3 == 'yellow':
-      print("Congratulations.  You win the game!!")
+      print("Congratulations.  You win the game!!\n")
     else:
       print("You could not follow simple instructions.  GAME OVER\n")  
   else:
